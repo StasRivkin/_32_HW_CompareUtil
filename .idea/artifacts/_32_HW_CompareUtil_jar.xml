@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="_32_HW_CompareUtil:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_32_HW_CompareUtil_jar</output-path>
+    <root id="archive" name="_32_HW_CompareUtil.jar">
+      <element id="module-output" name="_32_HW_CompareUtil" />
+    </root>
+  </artifact>
+</component>
